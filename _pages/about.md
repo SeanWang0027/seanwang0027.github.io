@@ -27,3 +27,7 @@ Updates
 **May 2024**: I will be joining research work with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/). Me and Freda are working on a project to analyze the difficulty of triggering different desirable distributions using prefix tuning. And from my perspective, the result of work is **promising** so far, and later it can be applied to other LLM field, including testing the certainty of the model in a setting of NLG tasks.
 
 **Jan 2024**: I am studying as an exchanger at [National University of Singapore](https://nus.edu.sg/), and I will be taking 3 courses here including [CS2108: Introduction to Media Computing](https://nusmods.com/courses/CS2108/introduction-to-media-computing), [CS3245: Information Retrieval](https://nusmods.com/courses/CS3245/information-retrieval) and [IS3107: Data Engineering](https://nusmods.com/courses/IS3107/data-engineering).
+
+Publications
+======
+Expecting to come in October.
