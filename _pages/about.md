@@ -11,7 +11,7 @@ Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/
 
 I am actively searching for internships, master programs and PhD opportunities which can allow me to take my research into next level.
 
-Email: [](seanwang027@gmail.com).
+Links: [Email](seanwang027@gmail.com) / [CV](../assets/Sean.pdf)
 
 
 A data-driven personal website
