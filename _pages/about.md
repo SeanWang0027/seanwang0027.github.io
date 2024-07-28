@@ -11,11 +11,19 @@ Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/
 
 I am actively searching for internships, master programs and PhD opportunities which can allow me to take my research into next level.
 
-Links: [Email](seanwang027@gmail.com) / [CV](../SeanWang.github.io/assets/Sean.pdf)
+Links: [CV](../SeanWang.github.io/assets/Sean.pdf)
 
 
-A data-driven personal website
+Research Overview
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests are in Natural Language Processing, especially in works of aligning LLMs with human values, building Helpful, Harmless and Honest Large Language models.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My **research vision** is to build a system that can balance both helpfulness and harmlessness. And to build a system like this, I want to dive into the field of building a trustworthy and explainable AI system.
+
+Updates
+======
+**July 2024**: I will be joining Prof [Hanjie Chen](https://hanjiechen.github.io/) at [Rice University](https://www.rice.edu/). We are currently actively discussing the details of the estimation of uncertainty of the generated language from LLMs. It will be difficult job, but I want to treat it as a long term project for my future master career or PhD career. The works of the estimation of uncertainty currently limited in classification tasks, and applying it to natural language generation can take the current alignment works into next level.
+
+**May 2024**: I will be joining research work with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/). Me and Freda are working on a project to analyze the difficulty of triggering different desirable distributions using prefix tuning. And from my perspective, the result of work is **promising** so far, and later it can be applied to other LLM field, including testing the certainty of the model in a setting of NLG tasks.
+
+**Jan 2024**: I am studying as an exchanger at [National University of Singapore](https://nus.edu.sg/), and I will be taking 3 courses here including [CS2108: Introduction to Media Computing](https://nusmods.com/courses/CS2108/introduction-to-media-computing), [CS3245: Information Retrieval](https://nusmods.com/courses/CS3245/information-retrieval) and [IS3107: Data Engineering](https://nusmods.com/courses/IS3107/data-engineering).
