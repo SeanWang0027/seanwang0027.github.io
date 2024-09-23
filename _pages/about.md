@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I will be working as a Visiting Scholar at the [University of Waterloo](https://uwaterloo.ca/) in the David R. Cheriton School of Computer Science, Faculty of Mathematics, term from 15 September 2024 to 31 December 2024, on the recommendation of Professor [Freda Shi](https://home.ttic.edu/~freda/). Currently, I am focusing on my work in analyzing the probability distributions defined by language models.
+Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I am now working as a Visiting Scholar at the [University of Waterloo](https://uwaterloo.ca/) in the David R. Cheriton School of Computer Science, Faculty of Mathematics.
 
 I am actively searching for internships, master programs and PhD opportunities which can allow me to take my research into next level.
 
