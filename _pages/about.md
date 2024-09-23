@@ -22,7 +22,7 @@ My **research vision** is to build a system that can balance both helpfulness an
 
 Updates
 ======
-**May 2024**: I will be joining research work with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/). Freda and I are working on a project to analyze the difficulty of triggering different desirable distributions using prefix tuning. And from my perspective, the result of work is **promising** so far, and later it can be applied to other LLM field, including testing the certainty of the model in a setting of NLG tasks.
+**May 2024**: I will be joining research work with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/). We are working on a project to analyze the difficulty of triggering different desirable distributions using prefix tuning. And from my perspective, the result of work is **promising** so far, and later it can be applied to other LLM field, including LLM security problems.
 
 **Jan 2024**: I am studying as an exchange student at [National University of Singapore](https://nus.edu.sg/), and I will be taking 3 courses here including [CS2108: Introduction to Media Computing](https://nusmods.com/courses/CS2108/introduction-to-media-computing), [CS3245: Information Retrieval](https://nusmods.com/courses/CS3245/information-retrieval) and [IS3107: Data Engineering](https://nusmods.com/courses/IS3107/data-engineering).
 
