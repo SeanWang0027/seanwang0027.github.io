@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I am now working as a Visiting Scholar at the [University of Waterloo](https://uwaterloo.ca/) in the David R. Cheriton School of Computer Science, Faculty of Mathematics.
+Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I am now working as a Visiting Undergraduate Student at the [University of Waterloo](https://uwaterloo.ca/) in the David R. Cheriton School of Computer Science, Faculty of Mathematics.
 
 I am actively searching for internships, master programs and PhD opportunities which can allow me to take my research into next level.
 
