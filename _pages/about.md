@@ -16,7 +16,7 @@ Links: [CV](../assets/Sean.pdf)
 
 Research Overview
 ======
-My research interests are in Natural Language Processing, especially in Language Modeling and universal attacks in NLP. To be more specific, I am really interested in understanding the **embeddings** in language model. What is the inner connection between output distribution and input embeddings? Why certain input embeddings are outputting certain distributions? Can we build a successful enough inverse language modeling approach? These are all questions I am trying to answer these days.
+My research interests lie in Natural Language Processing, with a focus on Language Modeling and universal attacks in NLP. I am particularly fascinated by the role of embeddings in language models. I seek to understand the inner connections between output distributions and input embeddings, exploring questions such as why certain input embeddings produce specific distributions and whether it is possible to build a sufficiently successful inverse language modeling approach. These are all questions I am trying to answer these days.
 
 Updates
 ======
