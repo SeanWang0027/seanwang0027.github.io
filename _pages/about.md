@@ -16,13 +16,11 @@ Links: [CV](../assets/Sean.pdf)
 
 Research Overview
 ======
-My research interests are in Natural Language Processing, especially in works of aligning LLMs with human values, building Helpful, Harmless and Honest Large Language models.
-
-My **research vision** is to build a system that can balance both helpfulness and harmlessness. And to build a system like this, I want to dive into the field of building a trustworthy and explainable AI system.
+My research interests are in Natural Language Processing, especially in Language Modeling and universal attacks in NLP. To be more specific, I am really interested in understanding the **embeddings** in language model. What is the inner connection between output distribution and input embeddings? Why certain input embeddings are outputting certain distributions? Can we build a successful enough inverse language modeling approach? These are all questions I am trying to answer these days.
 
 Updates
 ======
-**May 2024**: I will be joining research work with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/). We are working on a project to analyze the difficulty of triggering different desirable distributions using prefix tuning. And from my perspective, the result of work is **promising** so far, and later it can be applied to other LLM field, including LLM security problems.
+**September 2024**: I am working as a research assistant at [Compling Lab](https://compling-wat.com/) with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/)! My first research project here focuses on exploring potential limitations in language modeling by analyzing output logits and input embeddings. It's an incredibly exciting and enjoyable project!
 
 **Jan 2024**: I am studying as an exchange student at [National University of Singapore](https://nus.edu.sg/), and I will be taking 3 courses here including [CS2108: Introduction to Media Computing](https://nusmods.com/courses/CS2108/introduction-to-media-computing), [CS3245: Information Retrieval](https://nusmods.com/courses/CS3245/information-retrieval) and [IS3107: Data Engineering](https://nusmods.com/courses/IS3107/data-engineering).
 
