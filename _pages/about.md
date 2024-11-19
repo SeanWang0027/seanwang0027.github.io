@@ -26,4 +26,4 @@ Updates
 
 Publications
 ======
-Expecting to come in October.
+Expecting to come in 2025.
