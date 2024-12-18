@@ -21,18 +21,12 @@ My primary research interest lies in learning for Natural Language Processing (N
 Some of my recent research ideas are:
 
 1. **About Embeddings:**  
-Word embeddings are crucial components for understanding the high-level behavior of current language models, yet our knowledge about them remains incomplete. In the future, I aim to address the following questions:  
-
-   - **Can embedding-level alignment be further improved** to ensure the generation of safe and non-toxic outputs, considering that word embeddings encode information beyond merely representing tokens?  
-   - **Can we uncover an ultimate explanation for the origin and meaning of embeddings**, providing deeper insights into their significance?  
-   - **Is it possible to develop continuous representations of languages** and design structures that enable training from such representations, paving the way for training-free steering in everyday applications?  
+Word embeddings are crucial components for understanding the high-level behavior of current language models, yet our knowledge about them remains incomplete. Embedding-level alignment holds the potential to significantly enhance the generation of safe and non-toxic outputs, as embeddings encode rich information beyond token representation, warranting deeper exploration into their origins and meaning. By advancing continuous language representations and designing structures for training-free steering, we can unlock new possibilities for dynamic and trustworthy AI systems in everyday applications.
 
 2. **About Model Safety:**
-
 I am passionate about model safety, particularly in the area of **inverse language modeling**. Large language models' logits reveal both critical internal mechanisms and key features of their inputs, making them a focal point for enhancing AI safety. I aim to develop an **autoregressive inverse language modeling approach** to better understand and safeguard these systems. By exploring methods for both attacking and defending models, I seek to address vulnerabilities and pave the way for more robust and trustworthy next-generation AI.
 
 3. **About Efficient Training and Fine-Tunings:**
-
 In resource-scarce scenarios such as for niche languages, current generative models may not exhibit equal performance. Pretraining language models is computationally intensive and data-hungry, but developing techniques that enable models to learn general rules during pretraining could significantly reduce their dependence on extensive datasets. In the future, I aim to find efficient training methods and fine-tuning methods which **rely on less data** while **exhibiting better robustness**. 
 
 Updates
