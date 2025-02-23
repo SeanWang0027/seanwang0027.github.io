@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I am now working as a Visiting Undergraduate Student at the [University of Waterloo](https://uwaterloo.ca/) in the David R. Cheriton School of Computer Science, Faculty of Mathematics.
-
-I am actively searching for internships, master programs and PhD opportunities which can allow me to take my research into next level.
+Hi! I am a senior undergraduate at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China. I major in computer science and technology at School of Electronic and Information Engineering and will be graduating in July, 2025. I am seeking NLP research opportunities and invite interested parties to contact me directly to discuss potential collaborations.
 
 Links: [CV](../assets/Sean.pdf)
 
 
 Research Overview
 ======
-My primary research interest lies in learning for Natural Language Processing (NLP), particularly in understanding the science of generative language models and providing a universal framework for comprehending their high-level behaviors. I focus on representation learning and language modeling, aiming to contribute to the development of **safer** and **more transparent** AI systems.
+My primary research interest lies in learning for Natural Language Processing (NLP), particularly in understanding the science of generative language models and providing a universal framework for comprehending their high-level behaviors. Recently, I focus on model interpretability and inference-time algorithms for Large Language Models (LLMs), aiming to contribute to the development of **safer** and **more transparent** AI systems.
 
 Some of my recent research ideas are:
 
@@ -25,11 +23,3 @@ Some of my recent research ideas are:
 2. **About Model Safety:** I am passionate about model safety, particularly in the area of **inverse language modeling**. Large language models' logits reveal both critical internal mechanisms and key features of their inputs, making them a focal point for enhancing AI safety. I aim to develop an **autoregressive inverse language modeling approach** to better understand and safeguard these systems. By exploring methods for both attacking and defending models, I seek to address vulnerabilities and pave the way for more robust and trustworthy next-generation AI.
 
 3. **About Efficient Training and Fine-Tunings:** In resource-scarce scenarios such as for niche languages, current generative models may not exhibit equal performance. Pretraining language models is computationally intensive and data-hungry, but developing techniques that enable models to learn general rules during pretraining could significantly reduce their dependence on extensive datasets. In the future, I aim to find efficient training methods and fine-tuning methods which **rely on less data** while **exhibiting better robustness**. 
-
-Updates
-======
-**September 2024**: I am working as a research assistant at [Compling Lab](https://compling-wat.com/) with Prof [Freda Shi](https://home.ttic.edu/~freda/) at [University of Waterloo](https://uwaterloo.ca/)! My first research project here focuses on exploring potential limitations in language modeling by analyzing output logits and input embeddings. It's an incredibly exciting and enjoyable project!
-
-Publications
-======
-Expecting to come in 2025.
